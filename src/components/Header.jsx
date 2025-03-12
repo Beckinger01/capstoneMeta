@@ -37,7 +37,7 @@ const Header = () => {
           <li><a href="/" style={{ color: "inherit", textDecoration: "none" }}>Home</a></li>
           <li><a href="/" style={{ color: "inherit", textDecoration: "none" }}>About</a></li>
           <li><a href="/" style={{ color: "inherit", textDecoration: "none" }}>Menu</a></li>
-          <li><a href="/" style={{ color: "inherit", textDecoration: "none" }}>Reservations</a></li>
+          <li><a href="/booking" style={{ color: "inherit", textDecoration: "none" }}>Reservations</a></li>
           <li><a href="/" style={{ color: "inherit", textDecoration: "none" }}>Order Online</a></li>
           <li><a href="/" style={{ color: "inherit", textDecoration: "none" }}>Login</a></li>
         </ul>
